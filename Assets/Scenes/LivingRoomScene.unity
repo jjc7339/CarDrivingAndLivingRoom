@@ -5882,7 +5882,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 0.6, b: 0, a: 1}
-  m_Intensity: 1.63
+  m_Intensity: 3.42
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -6933,6 +6933,10 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8700617353114198275, guid: 7946da183a17a114484e637fa90d4bb8, type: 3}
+      propertyPath: m_Name
+      value: Window Light
+      objectReference: {fileID: 0}
+    - target: {fileID: -8700617353114198275, guid: 7946da183a17a114484e637fa90d4bb8, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
@@ -7008,6 +7012,10 @@ PrefabInstance:
       propertyPath: m_CullingMask.m_Bits
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: -6405946246834512541, guid: 7946da183a17a114484e637fa90d4bb8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 3670bca030eae7b4bbe49db870e7cf55, type: 2}
     - target: {fileID: -5471984395001846815, guid: 7946da183a17a114484e637fa90d4bb8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
