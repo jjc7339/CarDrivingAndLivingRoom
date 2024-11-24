@@ -179,7 +179,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 50}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 116
+  controlID: 114
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -205,7 +205,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 38
+  controlID: 112
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -328,7 +328,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 39
+  controlID: 113
   draggingID: 0
 --- !u!114 &14
 MonoBehaviour:
@@ -354,7 +354,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 40
+  controlID: 42
   draggingID: 0
 --- !u!114 &15
 MonoBehaviour:
@@ -400,25 +400,23 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders:
-    - Assets/LivingRoom
+    m_Folders: []
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
     m_FilterByTypeIntersection: 0
   m_ViewMode: 0
   m_StartGridSize: 64
-  m_LastFolders:
-  - Assets/LivingRoom/Textures
+  m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\xjcni\Desktop\uni stuff\CMPSC 457\unity learning\living_room_scene
+  m_LastProjectPath: C:\Users\xjcni\Desktop\uni stuff\CMPSC 457\LivingRoomSceneUnity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 065a0000
     m_LastClickedID: 23046
-    m_ExpandedIDs: 00000000d4590000765c0000785c00007a5c00007c5c00007e5c0000
+    m_ExpandedIDs: 000000009e5a0000405d0000425d0000445d0000465d0000485d00004a5d00004c5d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -443,10 +441,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 1860}
+    scrollPos: {x: 0, y: 2819}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000d4590000765c0000785c00007a5c00007c5c00007e5c0000da5c000056690000
+    m_ExpandedIDs: ffffffff000000009e5a0000405d0000425d0000445d0000465d0000485d00004a5d00004c5d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -585,10 +583,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 48}
-      m_SelectedIDs: 785d0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 8a7efdff0a1cffffbe95ffffd896ffff9e97ffffd6b9ffffa2c3ffff82cdffff92f0ffff2efbffff30fbffff
+      scrollPos: {x: 0, y: 895}
+      m_SelectedIDs: f4590000
+      m_LastClickedID: 23028
+      m_ExpandedIDs: 2efbffff30fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -870,7 +868,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 0
+      displayed: 1
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -968,9 +966,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.7053187, y: 4.4688864, z: -55.114445}
+    m_Target: {x: 9.519231, y: -1.926784, z: -51.35941}
     speed: 2
-    m_Value: {x: 3.7053187, y: 4.4688864, z: -55.114445}
+    m_Value: {x: 9.519231, y: -1.926784, z: -51.35941}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1016,13 +1014,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 1
   m_Rotation:
-    m_Target: {x: -0.0007154595, y: -0.99972934, z: -0.0029798306, w: 0.030517995}
+    m_Target: {x: -0.0017930692, y: 0.9918315, z: -0.12571293, w: -0.0329712}
     speed: 2
-    m_Value: {x: -0.00066958455, y: -0.9995331, z: -0.0014799372, w: 0.03051294}
+    m_Value: {x: -0.0019810188, y: 0.99147177, z: -0.12567091, w: -0.034448165}
   m_Size:
-    m_Target: 12.124355
+    m_Target: 13.818304
     speed: 2
-    m_Value: 12.124355
+    m_Value: 13.818304
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1114,7 +1112,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
